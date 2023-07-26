@@ -1,9 +1,24 @@
-# Projekt Bocik1 Discord Bot
+# Bocik1 - Discord Bot
 
-Witaj w projekcie Bocik1 - prostego Discord Bota stworzonego przy użyciu biblioteki discord.py! Bot ten oferuje kilka zabawnych funkcji, w tym generowanie piramidy z emotek oraz odpowiadanie na komendę "test" w oryginalny sposób! 🤖
+🤖 Witaj w Bocik1, naszym nowoczesnym Discord Bot'cie! Poniżej znajdziesz opis funkcji i komend, które możesz użyć na naszym serwerze.
 
-## Funkcje
+### Komendy 🔧
 
-1. 🔢 **Generowanie Piramidy**: Bocik1 może stworzyć piękną piramidę z losowo wybranej emotki, której maksymalna długość jest ustawiona przez Ciebie! Wystarczy napisać `pyrimid [maksymalna_długość]`, a Bocik1 wygeneruje emocjonującą piramidę.
+1. `=ping` - Sprawdź opóźnienie (ping) bota.
+2. `=test` - Wywołaj tę komendę, aby upewnić się, że wszystko działa prawidłowo. 🎉
+3. `uuh` - Za każdym razem, gdy napiszesz "uuh", bot zliczy to zdarzenie i powie Ci, ile razy to zrobiłeś. 🔄
+4. `=pyrimid [max_length]` - Bot stworzy piękną piramidę z losowego emotikona o maksymalnej długości, którą wybierzesz! 🏗️
 
-2. 🔄 **Reakcja na Komendę Test**: Gdy wyślesz wiadomość zawierającą słowo "test", Bocik1 z wdziękiem odpowie używając losowej emotki! Spróbuj tego teraz i zobacz, jakie niespodzianki ukrywa Bocik1.
+### Opis 👋
+
+Bocik1 to prosta aplikacja Discord Bot napisana w Pythonie przy użyciu biblioteki `discord.py`. Bot posiada kilka funkcji, takich jak reagowanie na wiadomości, liczenie emotikonek "uuh" oraz tworzenie piramidy emotikonów. Dodatkowo bot rozpoznaje administratorów na serwerze i udziela im specjalnych odpowiedzi na komendę `=ping`.
+
+### Konfiguracja 🔩
+
+Wszystkie potrzebne pliki są dostępne w tym repozytorium. Upewnij się, że zainstalowałeś bibliotekę `discord.py` przed uruchomieniem bota.
+
+### Kontakt 💬
+
+Jeśli masz jakieś pytania, sugestie lub znalazłeś błąd, możesz się z nami skontaktować poprzez zakładkę "Issues" w tym repozytorium.
+
+🚀 Miłej zabawy z Bocik1 na Twoim serwerze Discord!
